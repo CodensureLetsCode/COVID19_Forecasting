@@ -100,7 +100,13 @@ The Indian Population Demographics will be considered once we have the predictio
 The entire approach to the solution can be represented as shown in the diagram below,
 ![ApproachDiagram](https://github.com/CodensureLetsCode/COVID19_Forecasting/blob/master/images/Approach%20Diagram.png?raw=true)
 
+### References:
+1. https://www.researchgate.net/publication/224408260_Time_Series_Prediction_Using_Support_Vector_Machines_A_Survey
+2. https://api.covid19india.org/csv/
+3. https://github.com/CSSEGISandData/COVID-19
+
 
 #### Team Members:
 ##### Aditi Sharma
 ##### Himanshu Sen
+##### Jay Sharma
